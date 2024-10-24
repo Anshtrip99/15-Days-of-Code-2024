@@ -17,3 +17,25 @@ October 23, 2024
 lecture 113, 114, 115, 116[DP lectures]
 
 - Solved 4 Questions in Codechef Starter 157 Div 4.
+
+### Day 2
+
+October 24, 2024
+
+- Question 1 
+[https://leetcode.com/problems/reducing-dishes/submissions/1432279801/]
+- Question 2 
+[https://leetcode.com/problems/longest-increasing-subsequence/submissions/1432310091/]
+- Question 3 
+[https://leetcode.com/problems/russian-doll-envelopes/submissions/1432336147/]
+- Question 4 
+[https://leetcode.com/problems/maximum-height-by-stacking-cuboids/submissions/1432605895/]
+
+- Love Babbar  
+lecture 118, 119, 120[DP lectures]
+
+- Solved Problem A,B in Codeforces Round 981 (Div. 3) contest.
+- Problem A
+[https://codeforces.com/contest/2033/submission/287728627]
+- Problem B
+[https://codeforces.com/contest/2033/submission/287750298]
