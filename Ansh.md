@@ -39,3 +39,22 @@ lecture 118, 119, 120[DP lectures]
 [https://codeforces.com/contest/2033/submission/287728627]
 - Problem B
 [https://codeforces.com/contest/2033/submission/287750298]
+
+### Day 3
+
+October 25, 2024
+
+- Question 1 
+[https://www.naukri.com/code360/problems/0-1-knapsack_920542?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar&leftPanelTabValue=SUBMISSION]
+
+- Question 2 
+[https://leetcode.com/problems/two-sum/submissions/1433427459/]
+
+- Love Babbar  
+lecture 110[DP lectures]
+
+- STL by Luv 
+  - Pairs and Vectors
+  - Nesting in Vectors
+ 
+
