@@ -56,5 +56,30 @@ lecture 110[DP lectures]
 - STL by Luv 
   - Pairs and Vectors
   - Nesting in Vectors
+
+ ### Day 4
+
+October 26, 2024
+
+
+- Question 1 [Upsolved Problem C of CF Div 3]  
+ [https://codeforces.com/contest/2033/submission/288101506]
+
+- Question 2 
+ [https://leetcode.com/problems/path-sum-iii/submissions/1434488598/]
+
+
+
+- Love Babbar  
+   - lecture 117[DP lectures]
+
+- STL by Luv 
+  - Iterators
+  - How To write Iterator Code
+  - Maps[Part 1]
+ 
+
+
+
  
 
