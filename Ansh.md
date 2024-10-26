@@ -77,6 +77,9 @@ October 26, 2024
   - Iterators
   - How To write Iterator Code
   - Maps[Part 1]
+- Was not able to give the contest as I was attending a family function.
+- Codeforces Round 982 (Div. 2)
+   - Problem A[https://codeforces.com/contest/2027/submission/288186850] [After contest]
  
 
 
