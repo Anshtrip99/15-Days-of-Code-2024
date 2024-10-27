@@ -82,7 +82,19 @@ October 26, 2024
    - Problem A[https://codeforces.com/contest/2027/submission/288186850] [After contest]
  
 
+ ### Day 5
+
+October 27, 2024
+
+- Question 1 
+[https://leetcode.com/problems/minimum-sideway-jumps/submissions/1435444852/]
 
 
+- Love Babbar  
+lecture 121[DP lectures]
+
+- STL by Luv 
+  - Maps[Part 2]
+  - Sets and Unordered Sets
  
 
