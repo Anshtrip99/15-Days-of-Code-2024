@@ -91,10 +91,31 @@ October 27, 2024
 
 
 - Love Babbar  
-lecture 121[DP lectures]
+  - lecture 121[DP lectures]
 
 - STL by Luv 
   - Maps[Part 2]
   - Sets and Unordered Sets
  
+### Day 6
+
+October 28, 2024
+
+
+- Question 1 
+[https://leetcode.com/problems/pizza-with-3n-slices/submissions/1436267147/]
+
+- Question 2
+[https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/submissions/1436314764/]
+
+- Question 3
+[https://leetcode.com/problems/partition-equal-subset-sum/submissions/1436373716/]
+
+- Love Babbar  
+  - lecture 122, 123[DP lectures]
+
+- STL by Luv 
+  - Nesting in STL Sets and Maps
+  - Stacks and Queues 
+
 
