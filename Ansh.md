@@ -119,3 +119,22 @@ October 28, 2024
   - Stacks and Queues 
 
 
+### Day 7
+
+October 29, 2024
+
+- Question 1 
+[https://leetcode.com/problems/merge-two-binary-trees/submissions/1437481046/]
+
+- Question 2
+[https://leetcode.com/problems/merge-k-sorted-lists/]
+
+- Question 3
+[https://leetcode.com/problems/implement-trie-prefix-tree/submissions/1437508227/]
+
+- Question 4
+ [https://leetcode.com/problems/longest-common-prefix/submissions/1437511835/] 
+
+- STL by Luv 
+  - Balanced bracket matching
+  - Inbuilt sort
