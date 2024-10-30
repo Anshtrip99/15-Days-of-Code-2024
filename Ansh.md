@@ -138,3 +138,20 @@ October 29, 2024
 - STL by Luv 
   - Balanced bracket matching
   - Inbuilt sort
+
+### Day8
+
+October 30, 2024
+
+Participated in Contest[Starters 158 (Div-3)]
+ - Question 1 
+ [https://www.codechef.com/viewsolution/1102798943]
+
+ - Question 2
+ [https://www.codechef.com/viewsolution/1102849834]
+
+
+- STL by Luv 
+  - Next greater element using stacks
+  - Comparator Function
+
