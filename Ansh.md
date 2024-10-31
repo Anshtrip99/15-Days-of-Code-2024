@@ -153,5 +153,13 @@ Participated in Contest[Starters 158 (Div-3)]
 
 - STL by Luv 
   - Next greater element using stacks
-  - Comparator Function
+- Comparator Function
 
+### Day9
+
+October 31, 2024
+  
+- Upsolved [Starters 158 (Div-3)]
+  - Question 3
+[https://www.codechef.com/viewsolution/1103132775]
+  
