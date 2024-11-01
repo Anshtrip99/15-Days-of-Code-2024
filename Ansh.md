@@ -162,4 +162,10 @@ October 31, 2024
 - Upsolved [Starters 158 (Div-3)]
   - Question 3
 [https://www.codechef.com/viewsolution/1103132775]
-  
+
+### Day10
+
+November 1, 2024
+- Codeforces Round 983 (Div. 2)
+  -Problem B
+  [https://codeforces.com/contest/2032/submission/289238624]
