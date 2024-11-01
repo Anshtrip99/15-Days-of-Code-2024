@@ -167,5 +167,5 @@ October 31, 2024
 
 November 1, 2024
 - Codeforces Round 983 (Div. 2)
-  -Problem B
+  -Problem A
   [https://codeforces.com/contest/2032/submission/289238624]
