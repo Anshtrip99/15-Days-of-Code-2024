@@ -139,7 +139,7 @@ October 29, 2024
   - Balanced bracket matching
   - Inbuilt sort
 
-### Day8
+### Day 8
 
 October 30, 2024
 
@@ -155,7 +155,7 @@ Participated in Contest[Starters 158 (Div-3)]
   - Next greater element using stacks
 - Comparator Function
 
-### Day9
+### Day 9
 
 October 31, 2024
   
@@ -163,7 +163,7 @@ October 31, 2024
   - Question 3
 [https://www.codechef.com/viewsolution/1103132775]
 
-### Day10
+### Day 10
 
 November 1, 2024
 
