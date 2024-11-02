@@ -166,6 +166,14 @@ October 31, 2024
 ### Day10
 
 November 1, 2024
+
 - Codeforces Round 983 (Div. 2)
   -Problem A
   [https://codeforces.com/contest/2032/submission/289238624]
+
+ ### Day 11
+ 
+  November 2, 2024
+
+ - Upsolved Codeforces Round 983 (Div. 2)
+    [https://codeforces.com/contest/2032/submission/289478906]
