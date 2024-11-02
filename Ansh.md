@@ -176,4 +176,4 @@ November 1, 2024
   November 2, 2024
 
  - Upsolved Codeforces Round 983 (Div. 2)
-    [https://codeforces.com/contest/2032/submission/289478906]
+  - Problem B    [https://codeforces.com/contest/2032/submission/289478906]
