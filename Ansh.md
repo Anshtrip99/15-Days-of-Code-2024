@@ -177,3 +177,15 @@ November 1, 2024
 
  - Upsolved Codeforces Round 983 (Div. 2)
   - Problem B    [https://codeforces.com/contest/2032/submission/289478906]
+
+ ### Day 12
+ 
+  November 3, 2024
+  
+  - Was not able to do anything as i was travelling back to college.
+
+### Day 13
+ 
+  November 4, 2024
+  - Leetcode POTD
+     [https://leetcode.com/problems/string-compression-iii/submissions/1442938641/?envType=daily-question&envId=2024-11-04]
