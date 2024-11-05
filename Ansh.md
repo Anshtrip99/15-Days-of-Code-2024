@@ -187,5 +187,25 @@ November 1, 2024
 ### Day 13
  
   November 4, 2024
+  
   - Leetcode POTD
      [https://leetcode.com/problems/string-compression-iii/submissions/1442938641/?envType=daily-question&envId=2024-11-04]
+
+### Day 14
+ 
+  November 5, 2024
+  
+ - Question 1 [POTD Leetcode]
+ [https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/submissions/1443882457/]
+
+ - Question 2
+ [https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/submissions/1443962090/]
+
+ - Question 3
+ [https://leetcode.com/problems/longest-arithmetic-subsequence/submissions/1444048735/]
+ 
+ - Question 4 
+ [https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/submissions/1444080362/]
+
+- Love Babbar
+ - 124, 125, 126[DP Lectures]
