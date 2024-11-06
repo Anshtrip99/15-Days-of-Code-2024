@@ -209,3 +209,23 @@ November 1, 2024
 
 - Love Babbar
  - 124, 125, 126[DP Lectures]
+
+### Day 15
+ 
+  November 6, 2024
+
+  - Question 1 [POTD Leetcode]
+ [https://leetcode.com/problems/find-if-array-can-be-sorted/submissions/1444851750/?envType=daily-question&envId=2024-11-06]
+
+Codechef START159C [Div-3]
+ - Question 1
+ [https://www.codechef.com/viewsolution/1104567395]
+
+ - Question 2
+ [https://www.codechef.com/viewsolution/1104515660]
+ 
+
+-Web Devlopment
+  - Working on Clothing_inventory website performing CRUD operations.
+
+
